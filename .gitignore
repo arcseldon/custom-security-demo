@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings
+target
+target-eclipse
+manifest.yml
+bidquery-*
+/bin
+.DS_Store
